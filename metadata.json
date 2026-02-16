@@ -1,0 +1,12 @@
+{
+  "name": "Carl App - Ghana Driver Manager",
+  "short_name": "Carl",
+  "description": "A mobile-first personal business manager for ride-hailing drivers in Ghana, tracking trips, expenses, and net profit.",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#111827",
+  "theme_color": "#22c55e",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
